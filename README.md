@@ -14,5 +14,5 @@ Steps to create a branch and merge
 10. git switch main
 11. git merge development
 12. git status
-13. git branch -d development
+13. git branch -D development
 14. git push https://github.com/olegign82/code.git
